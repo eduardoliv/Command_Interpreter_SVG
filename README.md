@@ -4,7 +4,7 @@ This application uses unix parsers (FLEX and BISON) to read a .txt list of comma
 ## Usage
 * Open Linux terminal, navigate to the application folder and run ./logo \< \<commands\> \> \<draw\>
     * \<commands\> Is the first file specified below. (You can use the star.txt file, included here!) 
-    * \<draw\> Is the second file specified below.
+    * \<draw\> Any name you want, plus the .svg format.
 * You can write your own commands, as shown below.
 
 ## File format
