@@ -1,5 +1,5 @@
 # Command_Interpreter_SVG
-This application uses unix parsers (FLEX and BISON) to read a .txt list of commands and draw them to a .svg file.
+This application uses unix lexers/parsers (FLEX and BISON) to read a .txt list of commands and draw them to a .svg file.
 
 ## Usage
 * Open Linux terminal, navigate to the application folder and run ./logo \< \<commands\> \> \<draw\>
